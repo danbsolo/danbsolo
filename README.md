@@ -1,4 +1,17 @@
-I'm about ready to delve into github after watching this video:
-https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
+# Potential repositories:
 
-Before developing some cool software, I should first curate a couple of repositories (and their branches) to make documenting the process a little more streamlined :)
+## Widgets
+> Several widgets or apps I'm looking to make through python's tkinter module.
+
+I've already made a task-list ("Tracker") and clock widget as part of CS50's (online Harvard course) open-ended Final Project. I'll update them, along with making new widgets.
+
+## Random
+
+> Other work that I'm especially proud of.
+
+😁
+
+## Legacy
+> Old code I've made.
+
+Might be fun to document some old code I've made, but might be unnecessary to give it it's own repository. I wonder 🤔
