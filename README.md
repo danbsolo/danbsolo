@@ -1,4 +1,4 @@
-# Potential repositories:
+# Potential Repositories:
 
 ## Widgets
 > Several widgets or apps I'm looking to make through python's tkinter module.
