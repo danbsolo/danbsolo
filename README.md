@@ -1,9 +1,3 @@
-On branch: step1
+Ok, treating this repository as a personal blog is not for me.
 
-I'm about ready to delve into github after watching this video:
-https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
-
-Before developing some cool software, I should first curate a couple of repositories (and their branches) to make documenting the process a little more streamlined :)
-
-
-** just fixing the title and description since the last commit
+So, I'll just say my goal in the next commit-
