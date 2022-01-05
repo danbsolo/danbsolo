@@ -1,3 +1,2 @@
-Ok, treating this repository as a personal blog is not for me.
-
-So, I'll just say my goal in the next commit-
+##### I'm gonna upload code I'm proud of!
+😁
